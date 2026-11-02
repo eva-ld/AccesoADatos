@@ -15,7 +15,7 @@ public class Alumnos {
             DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
             DocumentBuilder builder = factory.newDocumentBuilder();
 
-            Document alumnos = builder.parse(new File("C:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\XMLconDOM_Datos\\alumnos.xml"));
+            Document alumnos = builder.parse(new File("C:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\PrimerTrimestre\\XMLconDOM_Datos\\alumnos.xml"));
 
             Element raiz = alumnos.getDocumentElement(); // Obtener la raiz
             NodeList listaAlumnos = raiz.getElementsByTagName("alumno"); // Obtener todos los alumnos

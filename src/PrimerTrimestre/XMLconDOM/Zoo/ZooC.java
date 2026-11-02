@@ -12,7 +12,7 @@ import javax.xml.transform.stream.StreamResult;
 import java.io.File;
 
 public class ZooC {
-    private static final String RUTA_FICHERO = "C:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\XMLconDOM_Datos\\";
+    private static final String RUTA_FICHERO = "C:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\PrimerTrimestre\\XMLconDOM_Datos\\";
 
     public static void main(String[] args) {
         try {

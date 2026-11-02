@@ -11,7 +11,7 @@ public class ActualizarBolsa {
 
     public static void main(String[] args) {
 
-        final String RUTA_FICHERO = "C:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\XMLconDOM_Datos\\";
+        final String RUTA_FICHERO = "C:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\PrimerTrimestre\\XMLconDOM_Datos\\";
 
         try {
             // Leer los archivos XML

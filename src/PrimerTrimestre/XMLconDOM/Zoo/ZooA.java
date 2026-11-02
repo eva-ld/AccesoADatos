@@ -11,7 +11,7 @@ import javax.xml.transform.stream.StreamResult;
 import java.io.File;
 
 public class ZooA {
-    private static final String RUTA_FICHERO = "C:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\XMLconDOM_Datos\\"; //Ruta para que el fichero xml se cree dentro
+    private static final String RUTA_FICHERO = "C:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\PrimerTrimestre\\XMLconDOM_Datos\\"; //Ruta para que el fichero xml se cree dentro
     // IMPORTANTE PONER LAS \\ AL FINAL DE LA RUTA PARA QUE NO DE PROBLEMA
     private static final String NOMBRE_FICHERO = "Zoo.xml"; //Nombre del documento xml
 

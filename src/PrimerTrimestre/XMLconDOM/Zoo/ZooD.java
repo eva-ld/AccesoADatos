@@ -9,7 +9,7 @@ import java.io.File;
 import java.util.Scanner;
 
 public class ZooD {
-    private static final String RUTA_FICHERO = "C:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\XMLconDOM_Datos\\";
+    private static final String RUTA_FICHERO = "CC:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\PrimerTrimestre\\XMLconDOM_Datos\\";
     private static final String NOMBRE_FICHERO = "Zoo.xml";
 
     public static void main(String[] args) {

@@ -9,7 +9,7 @@ import java.io.File;
 
 public class ZooB {
     // Como el fichero xml ya esta creado usamos la misma ruta que en ZooA, IMPORTANTE CON \\ AL FINAL
-    private static final String RUTA_FICHERO = "C:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\XMLconDOM_Datos\\";
+    private static final String RUTA_FICHERO = "C:\\Users\\evalo\\Desktop\\Programación\\AccesoDatos\\src\\PrimerTrimestre\\XMLconDOM_Datos\\";
     private static final String NOMBRE_FICHERO = "Zoo.xml";
 
     public static void main(String[] args) {
